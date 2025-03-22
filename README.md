@@ -1,6 +1,6 @@
 # Freenove Tutorial Online
 
-<img src="extra\freenove-logo.png" alt="freenove-logo" width='100%' align="left"/>
+<img src="extra\freenove-logo.jpg" alt="freenove-logo" width='100%' align="left"/>
 
 
 
